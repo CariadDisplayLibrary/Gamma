@@ -52,6 +52,12 @@ class GammaTFT : public DisplayCore {
         void __attribute__((always_inline)) windowData(color_t d) {
             *_data = d;
         }
+
+        void vsync() { // Wait for tear effect line to go high
+            while (digitalRead(PIN_TEAR) == LOW) {
+                yield();
+            }
+        }
 };
 
 #endif
