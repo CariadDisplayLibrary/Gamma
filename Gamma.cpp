@@ -250,6 +250,13 @@ void GammaTFT::initializeDevice() {
     EBIMSK0 = 0x00000021;
     //          xxxxxxxxxxxxxxxxPPPPPPRRSSCCCCCC
     EBISMT0 = 0;
+    EBISMT0bits.TRC = 0b000000;
+    EBISMT0bits.TAS = 0b01;
+    EBISMT0bits.TWR = 0b01;
+    EBISMT0bits.TWP = 0b000000;
+    EBISMT0bits.TBTA = 0b000;
+    EBISMT0bits.TPRC = 0b000;
+
     EBISMCON = 0x00000000;
 
     _command = (uint16_t *)0xE0000000;
