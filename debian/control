@@ -1,0 +1,20 @@
+Source: libdisplaycore-driver-gamma
+Section: main
+Priority: extra
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: libdisplaycore-driver-gamma
+Architecture: all
+XBSC-Group: DisplayCore
+XBSC-Subgroup: Drivers
+XBSC-Subsubgroup: TFT
+Depends: libdisplaycore-core
+Homepage: https://majenko.co.uk/gamma
+Provides: Gamma.h
+Description: Project Gamma Display
+ Driver for the Project Gamma display
+
+
+

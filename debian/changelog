@@ -1,0 +1,54 @@
+libdisplaycore-driver-ili9488 (2.0.8) uecide; urgency=low
+
+  * Added EBI option for MZ chips
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Mon, 10 Dec 2018 23:18:08 +0000
+
+libdisplaycore-driver-ili9488 (2.0.7) uecide; urgency=low
+
+  * Added to TFT group
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Sun, 28 Oct 2018 16:51:24 +0000
+
+libdisplaycore-driver-ili9488 (2.0.6) uecide; urgency=low
+
+  * Updated names
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Sun, 28 Oct 2018 16:26:04 +0000
+
+libdisplaycore-driver-ili9488 (2.0.5) uecide; urgency=low
+
+  * New structure
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Sun, 3 Jun 2018 16:41:43 +0100
+
+libdisplaycore-driver-ili9488 (2.0.4) uecide; urgency=low
+
+  * Updated library.json
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Mon, 26 Feb 2018 20:47:06 +0000
+
+libdisplaycore-driver-ili9488 (2.0.3) uecide; urgency=low
+
+  * Renamed boolean to bool
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Fri, 16 Feb 2018 20:03:48 +0000
+
+libdisplaycore-driver-ili9488 (2.0.2) uecide; urgency=low
+
+  * Fixed warnings
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Sat, 19 Aug 2017 16:54:35 +0100
+
+libdisplaycore-driver-ili9488 (2.0.1) uecide; urgency=low
+
+  * Added build files
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Thu, 17 Aug 2017 16:28:09 +0100
+
+libdisplaycore-driver-ili9488 (2.0.0) uecide; urgency=low
+
+  * Initial import
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Wed, 16 Aug 2017 20:54:51 +0100
+
