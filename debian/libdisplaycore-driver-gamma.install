@@ -1,3 +1,4 @@
-Gamma.cpp libraries/DisplayCore/Gamma
-Gamma.h libraries/DisplayCore/Gamma
 examples libraries/DisplayCore/Gamma
+library.json libraries/DisplayCore/Gamma
+library.properties libraries/DisplayCore/Gamma
+src libraries/DisplayCore/Gamma
