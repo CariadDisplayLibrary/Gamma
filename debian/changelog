@@ -1,40 +1,40 @@
-libdisplaycore-driver-gamma (2.0.6) uecide; urgency=low
+libcariad-driver-gamma (2.0.6) uecide; urgency=low
 
   * UECIDE Build files
 
  -- Matt Jenkins <matt@majenko.co.uk>  Thu, 11 Jul 2019 11:30:15 +0100
 
-libdisplaycore-driver-gamma (2.0.5) uecide; urgency=low
+libcariad-driver-gamma (2.0.5) uecide; urgency=low
 
   * Added vsync function
 
  -- Matt Jenkins <matt@majenko.co.uk>  Sat, 15 Jun 2019 16:34:36 +0100
 
-libdisplaycore-driver-gamma (2.0.4) uecide; urgency=low
+libcariad-driver-gamma (2.0.4) uecide; urgency=low
 
   * Added factory test sketch
 
  -- Matt Jenkins <matt@majenko.co.uk>  Sat, 15 Jun 2019 16:34:07 +0100
 
-libdisplaycore-driver-gamma (2.0.3) uecide; urgency=low
+libcariad-driver-gamma (2.0.3) uecide; urgency=low
 
   * Fix EBI timing
 
  -- Matt Jenkins <matt@majenko.co.uk>  Sat, 15 Jun 2019 15:20:05 +0100
 
-libdisplaycore-driver-gamma (2.0.2) uecide; urgency=low
+libcariad-driver-gamma (2.0.2) uecide; urgency=low
 
   * Tidied up 3D cube
 
  -- Matt Jenkins <matt@majenko.co.uk>  Fri, 14 Jun 2019 22:48:19 +0100
 
-libdisplaycore-driver-gamma (2.0.1) uecide; urgency=low
+libcariad-driver-gamma (2.0.1) uecide; urgency=low
 
   * Added first example
 
  -- Matt Jenkins <matt@majenko.co.uk>  Fri, 14 Jun 2019 22:39:01 +0100
 
-libdisplaycore-driver-gamma (2.0.0) uecide; urgency=low
+libcariad-driver-gamma (2.0.0) uecide; urgency=low
 
   * Initial import
 

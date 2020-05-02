@@ -1,9 +1,9 @@
 #ifndef _ILI9488_H
 #define _ILI9488_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
-class GammaTFT : public DisplayCore {
+class GammaTFT : public Cariad {
     private:
         volatile uint16_t *_data;
         volatile uint16_t *_command;
